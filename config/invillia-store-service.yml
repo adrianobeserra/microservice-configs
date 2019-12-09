@@ -16,7 +16,7 @@ eureka:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    password: 'rootinvilia'
+    password: 'rootinvillia'
     platform: mysql
     url: jdbc:mysql://localhost/store?verifyServerCertificate=false&useSSL=false&requireSSL=false
     username: root
